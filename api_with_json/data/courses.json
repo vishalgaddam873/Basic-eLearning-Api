@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Python",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 1
+  },
+  {
+    "name": "Css",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 2
+  },
+  {
+    "name": "HTML",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 3
+  },
+  {
+    "name": "HTML",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 4
+  },
+  {
+    "name": "HTML",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 5
+  }
+]

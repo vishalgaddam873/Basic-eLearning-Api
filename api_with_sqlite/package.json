@@ -1,0 +1,16 @@
+{
+  "name": "elearning_app",
+  "version": "1.0.0",
+  "description": "Elearing platform saral",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vishal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0",
+    "sqlite3": "^4.0.8"
+  }
+}
